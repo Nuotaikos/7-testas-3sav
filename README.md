@@ -11,7 +11,7 @@ This project is for educational purposes only. Pull request are welcome, but pri
 
 Site published at: https://nuotaikos.github.io/7-testas-3sav/  
 
-Design: [Sign up form](https://dribbble.com/shots/2290406-Sign-up-form)
+
 
 ## Project features
 
